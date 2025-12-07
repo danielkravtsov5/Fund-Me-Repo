@@ -61,4 +61,4 @@ You can simplify commands using the included Makefile:
 
 make build          # Compile contracts
 make test           # Run all tests
-make deploy-sepolia # Deploy to Sepolia network
+make deploy-sepolia # Deploy to Sepolia networks
